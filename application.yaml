@@ -1,5 +1,5 @@
 app:
-  name: default_new_name
+  name: default_name
   env: default
 
 market-config:
