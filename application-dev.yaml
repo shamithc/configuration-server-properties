@@ -1,6 +1,6 @@
 app:
-  name: default_app
-  env: default
+  name: dev_app
+  env: dev
 
 
 market-config:
