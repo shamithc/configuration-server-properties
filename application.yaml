@@ -1,3 +1,7 @@
+app:
+  name: default_app
+  env: default
+
 market-config:
   markets:
     btc-inr:
